@@ -5,7 +5,7 @@ if (process.env.CI) {
   const filename = join(__dirname, "package.json");
   const packageJson = require(filename);
 
-  const plattformPackageName = `@mogullabs/libnut-${process.platform}`;
+  const plattformPackageName = `@mogullabs/clacker-libnut-${process.platform}`;
   packageJson.name = plattformPackageName;
 
   try {
