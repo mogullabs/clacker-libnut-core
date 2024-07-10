@@ -19,7 +19,7 @@
     "url": "https://dry.software"
   },
   "bugs": {
-    "url": "https://github.com/nut-tree/nut.js/issues"
+    "url": "https://github.com/mogullabs/clacker-nut.js/issues"
   },
   "keywords": [
     "GUI",
@@ -42,7 +42,7 @@
     "node-addon-api": "7.1.0"
   },
   "optionalDependencies": {
-    "@nut-tree/node-mac-permissions": "2.2.1"
+    "@mogullabs/clacker-node-mac-permissions": "2.2.1"
   },
   "engines": {
     "node": ">=10.15.3"
